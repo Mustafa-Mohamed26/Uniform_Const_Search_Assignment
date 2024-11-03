@@ -40,4 +40,4 @@ if __name__ == "__main__":
     goal_node = 'G'
     ucs_path = uniform_cost_search(graph, start_node, goal_node)
 
-    print("UCS path from A to E:", ucs_path)
+    print("UCS path from S to G:", ucs_path)
